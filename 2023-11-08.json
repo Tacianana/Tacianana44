@@ -1,0 +1,26 @@
+{
+  "name": "Christian Owen",
+  "age": 52,
+  "address": {
+    "street": "Nura Place",
+    "city": "Buvbuda",
+    "state": "NH",
+    "zip": "64368"
+  },
+  "contact": {
+    "phone": "(509) 488-5659",
+    "servicePhone": "800616848"
+  },
+  "birthday": "1965-09-07T03:32:19.235Z",
+  "ip": "130.138.243.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahatu agilize nulkori pivwaccu mige gapel tob gakic lulekkam fej mit af ruacosup bilsuvwo vun wunun izpu. Fenija asane tu ohsajcan dud kun tevhepsel laj husez ibbar sefupro wik. Te goib onhu aho lep fem si laupu rorapo cu vubga uni duzdo pinmuit vobo fanip.",
+    "bio": "Uv piaje it caipufuz jauku ozi jecekoh zagba ovlov sefefzu vagauro no haca galar. Tovadu ogona loafe fonouz li riizo uhmoara ejoalved cegmi sat kewsif se jer larudzu ama ubu dibaw. Beesi rejow ukafik veszi votu napigvi uv ifmeiga tokwasase tekvipmos hoc gaj. Del le fetvuuw fefuk casufu ubulipdom falonu nojuw cujunga kupwiz ugma ew. Tuwopza lefa rotsep mot kaldabev ke hawovuro dis feblojeg do sezuz rubdo neimihoz mi peta bu odvom."
+  },
+  "apiKey": "85ce3b44819336595c2d8bc0624a676e8ff3cd74fba0935072da447ee9cc7748",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
