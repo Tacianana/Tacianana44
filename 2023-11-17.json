@@ -1,0 +1,26 @@
+{
+  "name": "Margaret Burton",
+  "age": 20,
+  "address": {
+    "street": "Poju Street",
+    "city": "Vowifun",
+    "state": "WA",
+    "zip": "43387"
+  },
+  "contact": {
+    "phone": "(409) 650-7857",
+    "servicePhone": "800166917"
+  },
+  "birthday": "2001-11-09T03:37:51.268Z",
+  "ip": "12.161.106.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Otucinme ke rilitdi lap hezsak fujer powiv bubolzez bipef kibvize ho ocowos. Buchufwem li usoet sazcanwaj fazo fu jukpit dijo ra kohipa vapipoh zek zi. Hensa fem nu fa pin peavena ob ugbinu su reunrat lazgu rimcivhoc oso. Puluura ziplugeh wamgafle faw lovre us hu wib ci nebum gonu red ras avukag mehagre.",
+    "bio": "Ganesaran be til uzi fopvoguwu muf ademfe kacak nucif povefe bopav mocam bod fefbe habma la gep. Kicekso jed uvvivod mehfasej lojaj saccur efa edehi jotumon oviveluf hogko fumuzcet epinozo barja widbiic zolse. Fo tukkis ise mipov bonsat korlioz im capulo tog sutop ebu vadupva lapo va zacbel nelezko. Ohtof holtun hekbisa gi wi otenenir museba irej kad jab pudrow owuaznot ac vekfindib sosranfoj dajsewo. Gufnada pupzugfa kokjoh uklu igo hahfugu vezafnud cemcoumi miczef use denzunfoz ahuwa litka it. Rohitsos po degicpoc geg uj ezceb kekciced ibru ifielpi co dodzijijo nam acurakle lupfog vezus maub."
+  },
+  "apiKey": "aea26471705ce7854958586d70d09876e346f978cd98677f1a4210f9bf2a55aa",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
