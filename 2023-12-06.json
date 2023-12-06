@@ -1,0 +1,26 @@
+{
+  "name": "Rena Mack",
+  "age": 44,
+  "address": {
+    "street": "Kurir Highway",
+    "city": "Sagatobup",
+    "state": "NM",
+    "zip": "47056"
+  },
+  "contact": {
+    "phone": "(947) 366-8176",
+    "servicePhone": "800352328"
+  },
+  "birthday": "1965-12-04T12:04:20.821Z",
+  "ip": "81.85.83.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Pievjam ge adjibes etupoudo netu je fadegot megjiri dodirimuj sapel dacbipvi mac lopan nog fuwu leworom. Suret gu urluur lopli rup utokan cesine femaf kudu muh ewfiz ki sontawut. Ibo dolsago jujhechaj fitiftim morot gev bencam niiwra tuzuf elka gujev jalu.",
+    "bio": "Jen ris hefwuhap dozwa co uwvi irkuon bibkehow ihazufmav diwegov cuahi duhtu zovuh keg duz az. Onbifit borki nenmag simfi mungin zubliwfo zeg huhi edjih hezwejda rughu ukakoaku cegelwo ilsuknuf suwunu apo uwaonbo. Kudreci zaphednu tazeome jillu nuzwujoba zetcu bevwek kibamjic umaed putiko buaf pijvoug egiru gopratuv sadikuh feusu mirsi fe."
+  },
+  "apiKey": "b1fe0720fab16ff74f182815f9b5feced7a212742424396f5143e740ab69b29b",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
