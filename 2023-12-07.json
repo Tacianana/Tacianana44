@@ -1,0 +1,26 @@
+{
+  "name": "Sean Owen",
+  "age": 56,
+  "address": {
+    "street": "Solris Key",
+    "city": "Duvanigi",
+    "state": "IL",
+    "zip": "22223"
+  },
+  "contact": {
+    "phone": "(203) 622-7018",
+    "servicePhone": "800945259"
+  },
+  "birthday": "1990-04-16T04:42:08.945Z",
+  "ip": "223.165.134.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Fu bisal valdave hideih wuduuh folipu fotub adiucpu pawipa wugasakig wamiwipi ihka bini jona zek bamuvag. Lumzuc veokafoc ta zosuprop kikruz lurorhaj caogo ivubeg wevicli ba lejet vuflesu fe ozaraemo iboboiv lan veto. Imni hiku niatalo fuz he ru usaju nahuconi haute icuinu vozcirgod pu upsonepa fudemo fok. Ikiisuda ziucjef evsohfi latwibod pazelcan ziup ru muh habi zup barmejun go ripcimat ujidlim. Cuphupvu zu wedpiugo zer az avatok fuogi ifalo pisafbez ce vid wo lup gih.",
+    "bio": "Lefida da fekuba rapu te goh coka pekiw ufi umiho zezruc uvdof ivzuhkec. Pi ovuje zidvoh zobdipoku faj kenuwi ic cozejcu awuwob cek iziokco imojalmu noz gori. Cebarozo viode li vasu jemab pop fa etbu wonwafot cuv bem noh dolven godumteb cuzijgu ge koh nopata. Vocume keda gis ma jaw wiluj pi vujum pon hehe za sejowuv nohvile."
+  },
+  "apiKey": "0a5809d0e2935fd3a730cf6bfaa0069cdcee11ef2a603e4d83a386166eac6a8d",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
