@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Swanson",
+  "age": 64,
+  "address": {
+    "street": "Dofmo Highway",
+    "city": "Talnedpi",
+    "state": "AZ",
+    "zip": "18832"
+  },
+  "contact": {
+    "phone": "(744) 477-9963",
+    "servicePhone": "800334131"
+  },
+  "birthday": "1999-09-24T11:32:08.048Z",
+  "ip": "160.17.190.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Awi fanhi zulra zo wudsecus nim lehu ibe nacilja mo ler ko tukasum se ji uguibu. Saz ko taz favde mazlu jopagceb ev do iri edo ijofo ob hariwam dizwivel. Ba bem daf niwaze ulu cigul useuceiwe guotu tipomlor wuhi huoh dudebvi ircalje pe. Iwa cih li dem ajofivge pof zokoni jaibapi cec ki kozcipne mil mihogoco vodmufeca.",
+    "bio": "Ugpe megdov al alezih ah purgugam nulridfo pade zarlidu okarev ko nogedin. Acocerhi oz za cab gisa comrobpo sumzah cumveeto eppocze na cardav darijaw agiuti todmu jospub tedpav ecguv. Jutle vazliznuf bulit opekdaz neglok wud tuciglas sov makte dechig feriwtir gag ajo rasus zi ene ig."
+  },
+  "apiKey": "f97fdfb7445f28e6f5fb203203308d5cd50d81df8e26f641fa017cbeeb5d9a73",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
