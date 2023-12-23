@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Morrison",
+  "age": 54,
+  "address": {
+    "street": "Irogu Glen",
+    "city": "Lohkojnu",
+    "state": "IA",
+    "zip": "11410"
+  },
+  "contact": {
+    "phone": "(823) 596-5088",
+    "servicePhone": "800938646"
+  },
+  "birthday": "1963-11-01T04:38:43.491Z",
+  "ip": "171.18.170.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Egu ze uwje sumwiiga wac wuzetafo fiskel noulbo olaen fahzuli boje mahin piheviup gidig bo. Soweprab cesu lifivdur te iczuc kudoji weoh gop weuvi do sirze nokfejvew ahher lefzatmen denjeum pocacoc. Weela odtidtig jubdaroke vew oki eze ku jaehute ude zo jug he fa geuba le veh.",
+    "bio": "Pa ababi kel recu zocurug hab viun osam uggo naba osi vuzef osmain si bi sorso. Pudul bosfonip vile jetfaj zik vor ukulurje gawo sej foplunpe gi za popaj mana ma wosda. Fo pihihre rac kilpacep ezige kilrag vuov gu alois paggurguv tizpivim za de hapuw fedefuj."
+  },
+  "apiKey": "b08ae7c952c6fa57305bae7401f5ae21c7e1669dd2636ab3d7d6352d53b25428",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
