@@ -1,0 +1,26 @@
+{
+  "name": "Connor Cole",
+  "age": 21,
+  "address": {
+    "street": "Judes Park",
+    "city": "Conulal",
+    "state": "MS",
+    "zip": "21447"
+  },
+  "contact": {
+    "phone": "(743) 231-2985",
+    "servicePhone": "800424949"
+  },
+  "birthday": "1999-08-23T18:24:29.173Z",
+  "ip": "27.243.41.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Bonboh lo wulezaz ajga kog ge joksisesu koisipeg tiwenot bivi ajuv izoupo dizruoka. Peejtut so ji ve cevregmez ta tigva wuav uliboz punotemi sefo izza uslup futiig wawud. Luzfelu kewot giog bej lar wuok vec fovcesap palikuru opa li copunuc jiwokak vacnahmuh vopni rit epzor ugi. Pejpej huzag osi putcugcok piahhaf onokow zahad du vagke tiz mis mopracvo cupirto doobiwi fuv. Welteto zapaf ud focuvico gevfe efwuw cu se ji gipgo sopecigaz eve epuud nihpu. Sodowenih sow citri er fikot itemuc hagcep osezupu suj tursu omri hi razeman.",
+    "bio": "Po heijcej jodelcef awmuj topas et haceul oviz tes li ak budo ulo ajilitniv gatesuti ufsanmiz. Copgese cavru ar fekleti jigod od sathu bi om kesda vubocrit buv ka favzaden. Pi pukuk ogieh lubatfiz cage kaf cukha nel dicite volomle vinotow wezifi nujwuz elkej jujmi wuucu vobop femfijop. Sezo pidu eneidewuw vizzavo cenfehop sin meslek upcu ri riik lepit jidohfad loh tujri ifo ela."
+  },
+  "apiKey": "f2dcc16e4d2fe8d54bf492e583504c2e543065a068c5ad630e9223bdf9b98e6b",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
