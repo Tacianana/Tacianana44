@@ -1,0 +1,26 @@
+{
+  "name": "Lettie Cooper",
+  "age": 40,
+  "address": {
+    "street": "Ciku Drive",
+    "city": "Sudawu",
+    "state": "KS",
+    "zip": "44210"
+  },
+  "contact": {
+    "phone": "(918) 249-6722",
+    "servicePhone": "800938275"
+  },
+  "birthday": "1961-08-26T10:32:56.447Z",
+  "ip": "57.241.127.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Kenaro beh ir mugamebu ev nezevna kiwa ro bolifi sul dib sacooc kileco howaf laida. Egme cobkaneb fi al hum uc widwe ul el ufotukeli jenas hichiga guf. Ziur mo ceza corcuk wel owucu su go silzi kah hokaho mu boge fi vup. Dufwewso saj nep su panza ni ilecuru ethajur ujlah ujlu popvotgo ojdisak teejupa kir.",
+    "bio": "Kik kehhev izgug wunulil kipfawgo awejeom tontiij ijatecdop gabrefi buamci irsemfup tenabe jij fam uvidutre ju led. Her ikaoj enaglo cihcig zic oboradjul inga venabu geced milo pirkeumu ceahe kokwez wometa valu leipu tudnepeb hudgezivu. Juzo sotaz kov adgeiv saj od buag do maimta guig wubizso foav jel ponuhob du re fiphapsa tagke."
+  },
+  "apiKey": "22352c251206d7d5d9f728aef31d02c79f9c2c0f79ab7fe8c165c23dc3e4dcd8",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
