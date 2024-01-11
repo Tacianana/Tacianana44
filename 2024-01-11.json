@@ -1,0 +1,26 @@
+{
+  "name": "Susan Strickland",
+  "age": 18,
+  "address": {
+    "street": "Ovila Trail",
+    "city": "Polcewbo",
+    "state": "NM",
+    "zip": "52423"
+  },
+  "contact": {
+    "phone": "(987) 299-3784",
+    "servicePhone": "800919622"
+  },
+  "birthday": "1993-06-06T21:19:45.963Z",
+  "ip": "77.31.17.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Hi ho uzujalami mopkuvu fod ulfeb nugjo zun pumi burus tonupeva zirgojot vilpi. Van bieva eco sadguzge timi mozusru doknuwu poluwgu ekecet vu vijip usmived jicdonne ofihiab du otduzre. Fod upo pagnorec raj te ju vo uwzosno arujesa vofezup oheliw taler zesevhew jofepu page zi imipem oszun. Jogvihas inubules unkoc vamuneva pi sub fed kumujimeg nofti nafliw wawawi maf vu toho risda hu urzepo. Ilobuv lajola docjokoh uwomet tek leifu zabkowof cawtupak joj ujusi ezuajci kupokip ze dar ub veehe pu vuujwa. Jap nafdu ezgul nulzidmul foc lo gi rejpo lafucab kibbe fejgo ob etlen ged vun epo suc.",
+    "bio": "Oz ebo udalow gojahkot jo gili akiuj vohako vauke dibac worevo cim nicjudha bun obzibah bolefnok. Ozuge utu ju laz lilnivnoc kecofa ladi de ge sen ofuazo he wo. Vor balsur fune wojledir ganco maedo muazan gun sag siv gegu zeafiiza ciktako jugniczo lu jonunubi ol. Gogawal ko oz atvilfa bi jew dar wirdu dumgejlar jimus duma zavah muko dom."
+  },
+  "apiKey": "8fd039d40f52365c0826fb27809bdf7ed2d4c3e46ed4db3cd27aead0d0245178",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
