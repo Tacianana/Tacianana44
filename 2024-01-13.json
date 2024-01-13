@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Douglas",
+  "age": 55,
+  "address": {
+    "street": "Vaaz Court",
+    "city": "Pulwenol",
+    "state": "CA",
+    "zip": "50101"
+  },
+  "contact": {
+    "phone": "(301) 393-5605",
+    "servicePhone": "800866562"
+  },
+  "birthday": "1960-11-18T19:19:23.670Z",
+  "ip": "153.197.53.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Palisu kecvok ozufivum sogammec ad rifhaev wa fava vuchaj inme ownobvem at lovpo ema teih bafur somwok. Liwini enaowa subac nelcazza duvo didjuhsej edohiz nimewaife fem ice ime waz tu. Gojik dezdupro hepos na wo owi eba fus ugake zilug woj woija mohe wuhkuga puselu gupujimom mahluin.",
+    "bio": "Liva jugackig boiluf nimzus fawinic kogebif olurob daffa fowaju muuvoino beak mucta inkopan. Zoz pococuki va benadte cirew iskal zugiza vewni taljuh ri ceas bam muzlime weubula dahnafwer buto. Hub fi hursa ri citketkeb wu juzhim rahza tittef pobut kuhwadel koptu ibtopfar. Mokhisa gu keejavi od izdetve so usohasad jadeluk fibu tuzrittid waclewo jiukiulo bot ustuuji obi jopuic eftewuw."
+  },
+  "apiKey": "7147bd1be11bad8735c2023ff8a8220884aef1fba5e9ba3ef844be5813ad9620",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
