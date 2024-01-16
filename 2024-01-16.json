@@ -1,0 +1,26 @@
+{
+  "name": "Juan Patrick",
+  "age": 22,
+  "address": {
+    "street": "Luhaku Grove",
+    "city": "Licisgu",
+    "state": "VA",
+    "zip": "51345"
+  },
+  "contact": {
+    "phone": "(353) 439-3530",
+    "servicePhone": "800761655"
+  },
+  "birthday": "1982-03-25T14:33:45.417Z",
+  "ip": "49.186.146.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Te na kejcog no tawcor zeb ropu cow teibiwi kimpe ju meed. Calaha bigovnu pudutim ri zuwhuj te wagiez mec jis pa fu zotuji tippiih hahgemec ofe begvude ziflimo miksiwrav. Noben cemu ag emerebos em mizel nitfog odnag olva safosu tihpuico ca namlizbev bow.",
+    "bio": "Up sonov metmi kevu tos famduror meswak pa avoca polem zivuiz zis cehul nivipmiz ze. Kebapig zauhi ji afaadhus jogved covit fucus narig hoceiji atvol umkoba rekur one tevov ne oszomuw. Dokatut aswav didga su hekopful juk rolpar gobib ro do mapil ubecuez gozimeda virek bubdoj. Sifcifo vo ava timnu boz ucuinli muaha po dojov saduf viwamwuz sepwerof tub inruwa ro igha. Kew hubso mulosrek resbec uti hug de wozaec olafa wukfeprak bisbien behe cav."
+  },
+  "apiKey": "d3cd3a412229ad214d5d07cf9d5231eafe2a12ad2f5a5f5c6d8b59c7d04d8bed",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
