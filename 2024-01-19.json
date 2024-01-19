@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Medina",
+  "age": 38,
+  "address": {
+    "street": "Danor Turnpike",
+    "city": "Fumiwuz",
+    "state": "WV",
+    "zip": "37208"
+  },
+  "contact": {
+    "phone": "(448) 650-1647",
+    "servicePhone": "800765751"
+  },
+  "birthday": "1978-06-26T03:13:36.397Z",
+  "ip": "156.51.19.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Gezse tef zepkuez do wejceito volotap fitipjo as rib ahota getdete uzefazmag palusal ju wo lisewo nubgew. Daf esuav ponesa ivjok pude ecu kudpe inbekev juwob jime jednit gizactu agi po. Oje zovorvu ralpaf awikepoz pulonu usafu owtucti gaworuza roreg narowej zo orbif uz.",
+    "bio": "Hemnogbut ti zi edaem vunop si so hoctajlu vati fiageka pelawhol awva jief hub. Pejuwu ci ima efaleb vektakke suc retwu na kafsehi ov getace cudozwub kasef ka bi jehizfu. Ziimolu cijhu boktajo vouj fivsid hikpija lef johedrun dahcoj nac banrurmu vocud rih no alaep ezdo se wov."
+  },
+  "apiKey": "ee539695142dbc46e4725b7cf544b0deb777882d1cb5b9c4ce0f1427665ab9a6",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
