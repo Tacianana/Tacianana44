@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Snyder",
+  "age": 24,
+  "address": {
+    "street": "Zefem Avenue",
+    "city": "Dajakpit",
+    "state": "SC",
+    "zip": "53306"
+  },
+  "contact": {
+    "phone": "(364) 530-4342",
+    "servicePhone": "800865774"
+  },
+  "birthday": "1982-01-07T14:06:28.075Z",
+  "ip": "132.209.165.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Ah negivuv duz hewanu diwil lag jaehuta seum neiba aj ne pezuk ke dugwe ev. Ded em uweriwo jovme hanuhvo watlalluv luzoz iledebhu vugfo ewawu duvzedot foj gagif ha. Jismaz giobcat cegfis saf vubejdat zusmov zugam iggom ebe fu ojreebi sufovtik neha udeizkip sestes.",
+    "bio": "Gub ve jecla re lovgus hawuok hutzov toverrok husu himulnal wugligal sewa ekeru usi ziphuckew dimu sojugor. Eceolaba nethuzget zuf tugdu con jik reafe he ho zudgecu bimbiasa wuma co. Heh jaer sokje cot ta repi ulte medhime dibi otopu pema tenas hez ijdef zievi. We zusa vopepu mofoc ha kitgupzu uwi kuhoziev ihaha aki nav efabeis noovomeb uga pekkuj goj nokojal. Ife anjo hiimad musucse jianizap ir mukzobeta punirla tekgek vejucew ahi katol sud okeegaebi noj juv fepel usewuvuk. Tewbatah rirekadow kojzac om ho vagap epimojgen awomem ginowej fuotuvoc gatcizhac ew."
+  },
+  "apiKey": "4e5d8a61a77640f0ee7053d70eb14f35c0ba04f88f89b7be3c34eae2ffb6668f",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
