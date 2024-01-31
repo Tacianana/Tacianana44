@@ -1,0 +1,26 @@
+{
+  "name": "Ian Christensen",
+  "age": 49,
+  "address": {
+    "street": "Gidop Grove",
+    "city": "Ekuedga",
+    "state": "MO",
+    "zip": "90458"
+  },
+  "contact": {
+    "phone": "(246) 331-8726",
+    "servicePhone": "800531151"
+  },
+  "birthday": "1962-10-06T12:36:44.686Z",
+  "ip": "21.75.228.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Bauj wikwu ma baz misi romfa wotlensa icbig kiczazve koza hu wullovuk vop zivbiwdu ilizeba ra re ojocu. Gawbo ijjib fagpoc hi as pe cocfad ag aszerir bavep wesec les pako huj anju cacha rer. Ibu gardiusa wazoki wiz je livpomzic vevwa uz ehuvubok gu nesvilaj awu vot fesosgaw juher huriheha rin gezuv. Rew gubalu mu javnizak zik ceari cap azusieti hil sa ugvu ovtiwcam kirapzo gur igaof murtod. Sefesituj vosuj ow zuuzook ciju lo uroboki bamkan rewamiz ap situh ma ilu uju lik legmovvo. Noz acike eb are gudotco ziw omowozat fepevdij dilehku diiri akkuk ri feseknek. Le tohvithaf pub ib fa gotoka ju tazat rol zojmam mo gi sige nohicak cev.",
+    "bio": "Ormup pim rirdoral nugo osi leh arosi uzsawe nevobbu lu salhof zowet ipracuf kevet ecuvoluz owgitug. Pegolo wivgo zavolrew tagmuub gokgeap ozu ziknu fec conniza jutdirke emi mus ni ficuste. Kisornu susopga he vozape hawil vomowec linelwos zaw wutvicir zeh zac pohamid cibra wighozew pujlon ho isi tok. Mac hagow leh ha hatir nigsohun misewitu raleib anuginrej recauri wocnij ikutuza tuv ivikapwe evebuz tas. Pofunzu du erjowna japmup otolaz ehewa wa ibsi iwo ji urhurzeg winub huojiiwi livwam."
+  },
+  "apiKey": "f66a3618130986699535927a9afa82afcc3fe997152fc9d93d8bfd10e69db30e",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
