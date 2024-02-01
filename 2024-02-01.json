@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Johnston",
+  "age": 31,
+  "address": {
+    "street": "Udarof Way",
+    "city": "Tawemga",
+    "state": "IA",
+    "zip": "53394"
+  },
+  "contact": {
+    "phone": "(842) 350-8210",
+    "servicePhone": "800445726"
+  },
+  "birthday": "1983-12-02T01:36:29.846Z",
+  "ip": "73.181.106.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Nodso saz maako dabij weigafub itzutcin ruk ivfe tu fudol osu hacsewa hez. Daedulon vovmekti do finu rengob mobwuzpal nucgisoh efca mebu wiji nigore bu. Bojewih kodzohga ge sof kedvidbi medbig ib uk mid ut da unija. Ci hev dimkaw emupojuj ru butgarkam nal wi jaer occocmu vev kun bamu upesiigu bawioh pawhoruc zoroc.",
+    "bio": "Hakom fulves elom kipbiha azite kof nunpuco cadumo imo erohihe vievauj li nufsu ti. Wifila kuvecigo inipilun buh rataw ojhe efiozos bez bizes ofolajnuf pujte pecuho zuzoh ihfah ebu tufguk. Remiw bargig fu obgadpah meolidu adda obu so nasende ipohi ipibu zukeafu cinve kioj ke acokej."
+  },
+  "apiKey": "ada7ee2af3df23c59f27998796c0bd75c6a6d2a817a07232a8b44bc5ab50df7e",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
