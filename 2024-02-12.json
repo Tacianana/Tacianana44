@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Kelly",
+  "age": 24,
+  "address": {
+    "street": "Iguwo Point",
+    "city": "Viwsagu",
+    "state": "AR",
+    "zip": "88449"
+  },
+  "contact": {
+    "phone": "(964) 653-2453",
+    "servicePhone": "800286857"
+  },
+  "birthday": "1967-04-14T20:04:49.811Z",
+  "ip": "30.114.241.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Onas palo fente nolosesu borek kuri zevname hor fose bubowi rifa poseik zej wibu muhago. Jibsabdu lalafu vujkitaj lomef deswafet idasdof nizir zila ejebofo koriz fuh le zoda pab araonzol eska. Itinoif lihmenvu ajomi ad dotjoju iv wuuc hoj ciznu sifviz esduko jiz kemwe lorpo odpi.",
+    "bio": "Imovi culosvav hep haec ujfo loca zatit ol luf ditat wegumos leatmaj kaejsol uhvuf owapu bu ojo ojebuciha. Jizas di po rij tiegdu ni tutcoz gi fehawe af ba zef puf ve et nojofo. Beg wacu jabula tuov begi aneakupom nuzi hugzoj zurre zojuge likrejo pal nobzir refbuh mewi oduwul. Hialudem olazov zopu kuucede huafudam otpujinu rulob badsa cinahoja kitur muadco luhufala git."
+  },
+  "apiKey": "d4ffdf0bff7549c158f5466deb5c036ac70fb75af8640c489910c88a05867498",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
