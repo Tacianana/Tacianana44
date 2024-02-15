@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Bass",
+  "age": 22,
+  "address": {
+    "street": "Muhe Junction",
+    "city": "Terjidi",
+    "state": "GA",
+    "zip": "42844"
+  },
+  "contact": {
+    "phone": "(263) 358-9426",
+    "servicePhone": "800278572"
+  },
+  "birthday": "1980-12-19T23:47:04.864Z",
+  "ip": "58.234.31.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Kape af liosfu lumka pazhejul ublu uhsedak liacoosu wevpetur ezoaluta gagawu ezbufuh. Ravebawe upa mep goz obnewmuh osisipi lagtupelu cuweluibi hi wo genigof ideupuuw larum is ku hiw gah. Abitise dujruki esaki ninkud berholof miamle fikasbeg cuznatweb rukte poso acehumet at af hag dein bege sugfiwot. Filcudi maw ebdo ful ma fi okolam ru haavkij gemaw egwehi wig umuelo muwsi tizibak amolfor. Zav civ vet mouja pol abako noj ren ihi kenuki sepa kep jigok uhivusgac mebana jasanise cazagi. Dizab pum hes nezulas mu uwonuvel mar eslos le afigirac cu ike te wuvdafi lemulu getu. Kosputek pe mijrug telik ja hoog vehu es juf balpu hub zecmibu ku ti zepwi fes tinped zaduf.",
+    "bio": "Zus omew nahmod sekaneco ti mico je az cavtihid atahis lu zaipsik. Fuuv winoh pubzaf lenje omgi ipetugitu mevo sem gujudsik ruk lepuwil si tijumu. Jejhuksun nokbes ihe vobipi of sutwo micivda sam zita tij aroziprop mu."
+  },
+  "apiKey": "170a5d790d8375dad7df921d9b52a9b190e7d2262d149802f55fed528bd5eea6",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
