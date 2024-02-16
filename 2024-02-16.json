@@ -1,0 +1,26 @@
+{
+  "name": "George Hayes",
+  "age": 35,
+  "address": {
+    "street": "Ricuk Pass",
+    "city": "Liwdobus",
+    "state": "DC",
+    "zip": "91605"
+  },
+  "contact": {
+    "phone": "(638) 755-1795",
+    "servicePhone": "800951158"
+  },
+  "birthday": "1976-04-10T14:53:43.288Z",
+  "ip": "157.224.221.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuehri zubsedhu mupiva minsasuh as jusidluk gar uv ujug nael da gi urularuz pideglil fav. Atuloje bizpurog pagazbob sawranaw nozi nok afoab du wur baw zez ezjitom linog. Avono fuv wehe or mubte ti acoevceh cedis tivse uniboku lembi he.",
+    "bio": "Ho bagsotulu ubiodka wiupazip rizrarude us webwebac lerace dut ru viej mi zohi bu idugu kina zu lehu. En pivitopus da nof jafezol ca nosa mu rif maw evo lapot low noj lehdosja revif eh ba. Kocvi vebamwe muz ke avijemec vonworhoh mobhel dovib jopkueca izsudda gozifa eralogki aj jeh jawnuijo repzuvte. Kez na dos noineso gionilaz kasakmaz ete abewan tadatvi hab ca pazrod revralle dopnivel."
+  },
+  "apiKey": "a2d864f6a5e1b94ecf7e61634c944504de0948a22c79bccef0538239f7ef7e5c",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
