@@ -1,0 +1,26 @@
+{
+  "name": "Albert Vargas",
+  "age": 19,
+  "address": {
+    "street": "Ottet Street",
+    "city": "Ogdavca",
+    "state": "AK",
+    "zip": "90230"
+  },
+  "contact": {
+    "phone": "(828) 934-7387",
+    "servicePhone": "800312916"
+  },
+  "birthday": "1964-08-08T22:16:25.730Z",
+  "ip": "161.60.43.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Wagjewuz ka eplun fogijbu pikog sapnug ceur jidumfuj um niizu nic kaid vophu. Me zizit mojci ubaja ur ju kispitzub wom ton medirgu pu mes gip ozuhero jovo omu. Iw oci zezatev iwo tilha latpew eteka age zojihva fe huwnasheg ece us.",
+    "bio": "Gar focizto dah ho huhar lujwozhaf mepgugwar enazet jisa igoho ro razaje cipagjo duwfiwgid cu ofmod vecaz. Obe lif wikustu owaro ijetit pigo voh todnuj oji neco igoop guf juf ge mugofij renodmek mu. Gam wogvi heud licwuk ejo fit cokur ken viuvu zev tejmecro gozibot rok mij gu luezuc hifjen weblum. Jeji fu corze ju wir dubmup ritodoba kevo bovtapten urka uboga kof ale zozwir ubaepe dudmu. Holukmo re gotharpa nago lib gojhimzar vecsu feh era sijcum wograhlu sufize. Zip nehuvoh vi je ajsigna diara rolop fu jidel toid jap tob. Utifwor sikihin okuufu isi nebed mo uhmek rokumnip nefli zelheghes joholutal zepwum."
+  },
+  "apiKey": "fdb9cbdd8484a0229c30e5b84b575bebd19b806be284600f01e3a214b6a3adf7",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
