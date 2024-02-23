@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Hansen",
+  "age": 50,
+  "address": {
+    "street": "Ziov Parkway",
+    "city": "Efliflem",
+    "state": "WA",
+    "zip": "13294"
+  },
+  "contact": {
+    "phone": "(377) 348-1333",
+    "servicePhone": "800925818"
+  },
+  "birthday": "1965-09-14T12:27:06.082Z",
+  "ip": "43.88.35.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Jin zedoabu ag dim vel penzo zefooze tu lajvo jermuj kobta um funcu. Takba teijnol dovevu amoca juuzoar dod usade bomni fecbu ku zulpu nu lobrog. Gab bione vurop cop cak raamulo liab fesi kis de vurvucmep cuderaj rime howi rulas kakoara rudebiz ujda.",
+    "bio": "Tibos vakew colnorreb sawdiv tuh wag bipeis seogran etouw mal gipnud peg ru dupadzi. Melag ikfo rigav iprane osu dar piaza uwesac lubgobe fomujid inu hiob tupulwa ago vubita gaigumid. Obisoido jinlanzu liwujiroc owpu mirulvi wane na rop li erahe sorcasned did nec fi aggifice se ocuha azuzoigi."
+  },
+  "apiKey": "0f28f10ae3f9c78fd80b5810ad29a907ba5e7f0f48f7bb8f0957d668ab8ba315",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
