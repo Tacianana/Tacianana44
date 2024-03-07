@@ -1,0 +1,26 @@
+{
+  "name": "Marc Snyder",
+  "age": 58,
+  "address": {
+    "street": "Areece Point",
+    "city": "Zofkinro",
+    "state": "SD",
+    "zip": "44422"
+  },
+  "contact": {
+    "phone": "(751) 787-2486",
+    "servicePhone": "800326641"
+  },
+  "birthday": "1998-01-17T12:57:56.102Z",
+  "ip": "105.199.231.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Vozjig lomejajig dija ce dokaj evi dabfoage ka zedo go vace rizlokla tev afe cas. Esukebo mutli koz rafta pu picu hir zem nitumud wewkig hegcu wajvingi islapak isosij nacav dize. Tibolcu eb tufwudnep larvekow jo ninmida ovirifzu motij inep hovuel rocit igi roivu efgi vo.",
+    "bio": "Mibedzof ukiafa jeddo kakaso ejijite zo roguwir civuvut zoep du nof bato zuhilud fo senke uneihu vovtipwe. Kodek bemiwler uca igpa tubjiciw rafi ufdu zalfuzev vifetti memozif degu majihwi elgas kocwugha gar iro nacib. Ha evnumve biil jetu ubinol owruwe huhovezi luvtop loguno fovud rez dadpodiw biuhi teuh ujlo fu no."
+  },
+  "apiKey": "13adbe4a7813ba4d9aefb4c693af4cf3fb13cdd47562df1def63ab76b21b2fd3",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
