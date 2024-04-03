@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Arnold",
+  "age": 48,
+  "address": {
+    "street": "Erovig Way",
+    "city": "Gupumwo",
+    "state": "DE",
+    "zip": "19941"
+  },
+  "contact": {
+    "phone": "(921) 975-5033",
+    "servicePhone": "800668988"
+  },
+  "birthday": "1972-12-18T08:46:22.755Z",
+  "ip": "209.230.112.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Alugeh usaepa fejivapi hav wulgikuc vodojesu fitogeh dipjaine ofago midug fu kofuwe giic muojida uti ojose. Karkowuna op davfucbec vepupkat je fav da re zo zi dag zulozu uc oblo. Ke boca fugmor vi igse wo il jamtoni wonufeg tehirle toto fu arobu wa lacfu ve rosage pe. Nouro vewhoje het huje dij wowson sawid vu dug epvevag ri garucot.",
+    "bio": "Al welovi nauta heeba pa oji huzin elibe upiwabug uvi gael weviga fahogew. Saluoh timitin nuhop falawlad katilo gipnizgok ike muh sudawiwo vav ri fetje. Vumlebpiw hodajged nicni zefofe dersi ikerof kuti gavbupaw huh susvewub tujzem vezessat puk gim."
+  },
+  "apiKey": "7237dd57eb84ebdccc28f84b587f814ea3215db338c4b9c3638b31f29f012306",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
