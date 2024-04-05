@@ -1,0 +1,26 @@
+{
+  "name": "Cole Bennett",
+  "age": 21,
+  "address": {
+    "street": "Ubtap Highway",
+    "city": "Recejew",
+    "state": "AK",
+    "zip": "24787"
+  },
+  "contact": {
+    "phone": "(731) 349-6904",
+    "servicePhone": "800912777"
+  },
+  "birthday": "1998-11-17T09:40:18.523Z",
+  "ip": "202.153.241.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Hire av ise readabo ilo jogahnin izju adbi bitfirewo giguf cotje ha iceubusa mookuwod buecku puc runjif ageki. Ebohieg riodoseh za kobigesu laeso he oli bagbovek ijiplik elwuk zu me. Zesbis wa oj co voju pugicic azjed lo il liwgi cakdarre mivoiv. Mittor puc jow omagim ulcuwpun adce eze so izesebra jo ehoav zilage ba ot ka domew nibobo obupajri.",
+    "bio": "Lov mu cif vir guv voono wigibi jep hawikoado mo nin tos kujulil wecoh tomeve. Zubomlo cor tun hoifapi fehfenho pudegbov aw dej pun ut og daz ol. Vi jagud na cosnusi seg aju ujuni tuhfe ov taf ranagu ga. Ugulon navbe weop lelotvuf van race seat sebuuri was powja adojeif hok rubmeg zofaj cal tufiv cu ji. Tore piito pi tucget afvopeve naczejno vogbe efo tocapiwi pisusole vusutpow muw pap gowone ofuhu noug ga usagolli. Edfat te ni cew vucadi ce tipru dap okutecebe epa hoehjof milfelo taze."
+  },
+  "apiKey": "505ab9f2fae2a8bc3786391ef02af7778be8cd0b9875ebc02f687a9c739594e7",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
