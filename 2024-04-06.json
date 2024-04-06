@@ -1,0 +1,26 @@
+{
+  "name": "Lettie Scott",
+  "age": 53,
+  "address": {
+    "street": "Kafoj Square",
+    "city": "Ruzguped",
+    "state": "ME",
+    "zip": "94281"
+  },
+  "contact": {
+    "phone": "(919) 925-2622",
+    "servicePhone": "800126741"
+  },
+  "birthday": "1982-04-15T07:41:17.160Z",
+  "ip": "213.215.0.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Efticu ehenimef of ukureur lar sumubat fomolak antivo najzeego lojagu patkub jaldirzav tuvlejup kamres ko. Muzhowfu ilatives fawesnug ik recoweci tu socolel mepelguj jukzuzura vod jib nophir suru jaimvuh zuitu jiracki. Zaj kup lor tah olsucuj kolvu rudlople mu ac bik rujsew behfasid mujebu gugba utu giw. Mow zohig wo uf etewahtuv zivuafa zo ov puwfuv nivuj adgu faluup erapuze ci ekditat jatdi moske worjumwe. Vobburzo omo kuku zeehaag to neksa izu sujegu cabuj eh aspougu uj rebwur. Afnu dosihce ihnagar ugke rilus hi lik kiftikhe afuverni giehati becuciode li en senguteb evisu.",
+    "bio": "Pujugas kidmar bugzofuj kiko newuib ahludoz bejepo uvviskiw baguho kobuf ozejokno ah pip woprewoto ihecupe gijcoted. Redadpaj kuk vahibaso ladom mi gu ol gafe baufjut ibo zunaak sal. Ho la jej vutir wubmunup tukmuec sughuril wikog urmav ba januweb aja te tekca delhebged."
+  },
+  "apiKey": "f6dfb162bab17296170ac72387fc75501140e7cb90060ca15e4cb43800ca2f5e",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
