@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Hayes",
+  "age": 58,
+  "address": {
+    "street": "Faeka Center",
+    "city": "Ohukoka",
+    "state": "AZ",
+    "zip": "30408"
+  },
+  "contact": {
+    "phone": "(903) 391-2349",
+    "servicePhone": "800373361"
+  },
+  "birthday": "1984-01-20T16:17:25.886Z",
+  "ip": "87.39.88.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Lav rifeg gavat bomhu ba hap poelotah zug tizubror wuduuvi du mun gamojso. Dovakod bavev hidraf acahajlo vod leco geltadum feg eb im ofudi orbot. Muakah ci fu sef lewmoguk irra kah etokon tof hadi sukjuze vezkah miecolic ajo zipmer nub mesuptig.",
+    "bio": "Nuki dog juze zitohmo muarega bunic roeb efgejzab wop edjeme usocogu ke mob gipocah. Nejdika learfe edzebe tuamuja ecugjo du hupmuzles hofacan titrefej alilaw ewaho epni podet aviwew. Feb hin ruga er hir woggehjuk basan awaike jopbej evoiwozep ehopoz hukez waisgu kan padagnog."
+  },
+  "apiKey": "116a4556698d168a02ed953d10648e764a56a1b189d641b41f17e0214fe2f1f8",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
