@@ -1,0 +1,26 @@
+{
+  "name": "Tom Hansen",
+  "age": 31,
+  "address": {
+    "street": "Gepev Mill",
+    "city": "Hizkegko",
+    "state": "MA",
+    "zip": "01978"
+  },
+  "contact": {
+    "phone": "(859) 799-4313",
+    "servicePhone": "800651984"
+  },
+  "birthday": "1981-01-18T14:57:57.184Z",
+  "ip": "9.204.217.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Jorwu ub tefuw kinib eb dinaba der li efu hutasam mepik ezakir penafuwa ciweeh foepija. Pub caw gi ojdor lasnibe cezfoj gaentow pimog ohoalo cemajhan gaw oso nup. Ful momzibe sucbutjeh vovinfij karoho dikub rueciiz su buhalep fopfur ijo juw ujup locu gar sovuvfec.",
+    "bio": "Ec vubo mi ota pe ikoovfu ku wehih veel caroc rolawvoc behub ro pupa jibije sicaz. Ed nieka ki ice kovlonet wu pehzol hiec fem zuwnokum ec sedoho kas hersu lureg zunokueku. Haduzoh zaz jo mijjoop jeiporel gi uwuricla vebesne wofalmo bisu efisen cappic eg jalgena. Zilit sokkum vip ef bafu aje kutsere hemdaffe hub cu uvfizi bumpenle risbopfot. Tajur ivoro val ilijotej jab kushofha cef wumo fiw ik ziwasu ihowi niwliri. Ehu uw ig be ru jip mod uwra viltu jo sonhuctak adras viaz eliec latwu da lokagwo dozmikfi. Kouhur petobfuv jo eka nopejmij ot wecu uf ba fofujig ja izapeud ligumedok."
+  },
+  "apiKey": "8b3b7eb074741f7bb8b6ff5d3e01176af5d339875761151143f05f25bdb49fff",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
